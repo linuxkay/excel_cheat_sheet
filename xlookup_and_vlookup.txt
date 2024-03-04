@@ -1,7 +1,7 @@
 ### Vlookup
 
 `=VLOOKUP(A1,sheet1!$E$2:$F$4030,2,FALSE)`
-`=A1& "@amazon.co.jp"`
+`=A1& "@example.com"`
 
 ### Xlookup
 
