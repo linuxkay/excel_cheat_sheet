@@ -1,0 +1,13 @@
+### Vlookup
+
+`=VLOOKUP(A1,sheet1!$E$2:$F$4030,2,FALSE)`
+`=A1& "@amazon.co.jp"`
+
+### Xlookup
+
+A
+`=XLOOKUP(A2,sheet1!$E$2:$E$4030,sheet1!$F$2:$F$4030)`
+B
+`=XLOOKUP(A2,sheet1!$E$2:$E$4030,sheet1!$J$2:$J$4030)`
+C
+`=XLOOKUP(A2,sheet1!$E$2:$E$4030,sheet1!$T$2:$T$4030)`
